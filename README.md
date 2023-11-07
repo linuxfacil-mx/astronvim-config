@@ -1,1 +1,1 @@
-# astronvim-config
+# AstroNvim - Linux Facil - Configuration
